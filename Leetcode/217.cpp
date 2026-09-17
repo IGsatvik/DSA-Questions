@@ -1,9 +1,8 @@
 bool containsDuplicate(vector<int>& nums) {
         unordered_set<int>set;
         for(int x:nums){
-            int i=set.size();
+            if(set.count(x))return 1;
             set.insert(x);
-            if(set.size()==i)return 1;
         }
-        return false;
+        return 0;
     }
