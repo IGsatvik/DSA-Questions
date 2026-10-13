@@ -1,0 +1,168 @@
+Master Algorithm List for DSA
+
+1. Sorting Algorithms
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Counting Sort
+- Radix Sort
+- Bucket Sort
+- Shell Sort
+- TimSort
+- IntroSort (used in C++ STL)
+
+2. Searching Algorithms
+- Linear Search
+- Binary Search (basic + variations: first/last occurrence, lower_bound, upper_bound)
+- Ternary Search
+- Jump Search
+- Interpolation Search
+- Exponential Search
+
+3. Mathematical & Number Theory
+- Euclidean Algorithm (GCD, LCM)
+- Extended Euclidean Algorithm
+- Modular Arithmetic (fast exponentiation, modular inverse)
+- Sieve of Eratosthenes
+- Segmented Sieve
+- Fermat’s Little Theorem
+- Euler’s Totient Function
+- Chinese Remainder Theorem
+- Matrix Exponentiation
+- Fast Doubling Method (Fibonacci)
+- Miller-Rabin Primality Test
+- Pollard’s Rho Algorithm (factorization)
+
+4. Recursion & Backtracking
+- Subset Generation
+- Permutation Generation
+- N-Queens Problem
+- Rat in a Maze
+- Sudoku Solver
+- Word Search / Word Break
+- Hamiltonian Path/Cycle
+- Graph Coloring Backtracking
+- Knight’s Tour Problem
+
+5. Greedy Algorithms
+- Activity Selection / Interval Scheduling
+- Fractional Knapsack
+- Huffman Coding
+- Minimum Spanning Tree (Prim’s, Kruskal’s)
+- Job Sequencing Problem
+- Gas Station Problem
+- Greedy Coin Change
+- Minimum Number of Platforms (train scheduling)
+
+6. Dynamic Programming
+- Fibonacci (memoization, tabulation)
+- 0/1 Knapsack
+- Subset Sum
+- Longest Common Subsequence (LCS)
+- Longest Increasing Subsequence (LIS)
+- Matrix Chain Multiplication
+- Edit Distance
+- Coin Change (min coins, number of ways)
+- Partition Equal Subset Sum
+- Palindromic Substrings / Longest Palindromic Subsequence
+- Maximum Subarray (Kadane’s Algorithm)
+- Jump Game I & II
+- Unique Paths
+- Minimum Path Sum
+- Decode Ways
+- Burst Balloons
+- Distinct Subsequences
+- Interleaving String
+- Scramble String
+- Dungeon Game
+- Wildcard Matching
+- DP on Trees (diameter, path sums)
+- Bitmask DP (TSP, subset problems)
+- DP with State Compression
+- DP with Binary Search Optimization
+- DP with Convex Hull Trick
+- DP with Knuth Optimization
+
+7. Graph Algorithms
+- BFS, DFS
+- Dijkstra’s Algorithm
+- Bellman-Ford Algorithm
+- Floyd-Warshall Algorithm
+- Topological Sort (DFS + Kahn’s Algorithm)
+- Union-Find / Disjoint Set Union (DSU)
+- Tarjan’s Algorithm (bridges, articulation points)
+- Kosaraju’s Algorithm (SCCs)
+- Johnson’s Algorithm (all-pairs shortest path)
+- Minimum Spanning Tree (Prim’s, Kruskal’s)
+- Edmonds-Karp (Max Flow)
+- Ford-Fulkerson (Max Flow)
+- Dinic’s Algorithm (Max Flow)
+- Push-Relabel Algorithm (Max Flow)
+- Bipartite Graph Check
+- Hungarian Algorithm (Assignment problem)
+- Hopcroft-Karp Algorithm (Maximum Bipartite Matching)
+- Hierholzer’s Algorithm (Eulerian path/circuit)
+- Kahn’s Algorithm (Topological Sort)
+
+8. String Algorithms
+- Naive Pattern Matching
+- KMP (Knuth-Morris-Pratt)
+- Rabin-Karp
+- Z-Algorithm
+- Manacher’s Algorithm (longest palindromic substring)
+- Trie operations
+- Aho-Corasick Algorithm (multi-pattern search)
+- Suffix Array construction
+- Suffix Tree basics
+- Rolling Hash
+- Longest Common Prefix (Kasai’s Algorithm)
+- Boyer-Moore Algorithm
+- Ukkonen’s Algorithm (Suffix Tree construction)
+
+9. Advanced Data Structures & Range Queries
+- Segment Tree (range queries, lazy propagation)
+- Fenwick Tree (Binary Indexed Tree)
+- Sparse Table
+- Union-Find with path compression
+- Treap
+- AVL Tree
+- Red-Black Tree
+- Splay Tree
+- Rope Data Structure
+- LRU Cache
+- LFU Cache
+- Heavy-Light Decomposition
+- Centroid Decomposition
+- Euler Tour Technique
+- Binary Lifting (LCA queries)
+- Persistent Segment Tree
+
+10. Specialized Algorithms
+- Fast Fourier Transform (FFT)
+- Convex Hull (Graham’s Scan, Jarvis March)
+- Line Sweep Algorithms (interval problems)
+- Binary Search on Answer
+- Sliding Window Technique
+- Two Pointers Technique
+- Prefix Sum & Difference Array
+- Monotonic Stack / Queue
+- Reservoir Sampling
+- Randomized QuickSelect
+- Median of Medians (deterministic selection)
+- Mo’s Algorithm (offline queries)
+- Square Root Decomposition
+
+11. Miscellaneous & Advanced
+- Hashing techniques (open addressing, chaining)
+- Bloom Filters
+- Union-Find with rollback
+- Persistent Data Structures
+- Dynamic Trees (Link-Cut Trees)
+- Cartesian Tree
+- Treap with implicit keys
+- Van Emde Boas Tree
+- Skip List
+- Rope Data Structure (string manipulation)
